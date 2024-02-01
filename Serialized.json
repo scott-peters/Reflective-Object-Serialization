@@ -1,0 +1,41 @@
+
+{
+    "objects": [
+        {
+            "class": "Object1",
+            "id": "0",
+            "type": "object",
+            "fields": [
+                {
+                    "name": "i",
+                    "declaring class": "Object1",
+                    "type": "int",
+                    "value": "0"
+                },
+                {
+                    "name": "d",
+                    "declaring class": "Object1",
+                    "type": "double",
+                    "value": "0.0"
+                },
+                {
+                    "name": "bool",
+                    "declaring class": "Object1",
+                    "type": "boolean",
+                    "value": "false"
+                },
+                {
+                    "name": "f",
+                    "declaring class": "Object1",
+                    "type": "float",
+                    "value": "0.0"
+                },
+                {
+                    "name": "a_1",
+                    "declaring class": "Object1",
+                    "reference": "null"
+                }
+            ]
+        }
+    ]
+}
